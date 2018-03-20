@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Thời Tiết USTH</string>
+
+    <string name="hanoi">Hà Nội</string>
+    <string name="paris">Paris</string>
+    <string name="toulouse">Toulouse</string>
+
+    <string name="mon">Thứ 2</string>
+    <string name="tue">Thứ 3</string>
+    <string name="wed">Thứ 4</string>
+    <string name="thus">Thứ 5</string>
+    <string name="fri">Thứ 6</string>
+    <string name="sat">Thứ 7</string>
+    <string name="sun">Chủ Nhật</string>
+
+    <string name="cloudy">Có mây</string>
+    <string name="city">Hà Nội</string>
+    <string name="partly_cloudly">Ít mây</string>
+    <string-array name="tab">
+        <item>Hà Nội</item>
+        <item>pa ri</item>
+        <item>tu lu</item>
+        <item>HCM</item>
+    </string-array>
+</resources>

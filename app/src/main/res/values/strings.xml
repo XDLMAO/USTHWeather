@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">USTH Weather</string>
+
+    <string name="hanoi">Hanoi</string>
+    <string name="paris">Paris</string>
+    <string name="toulouse">Toulouse</string>
+
+    <string name="mon">Mon</string>
+    <string name="tue">Tue</string>
+    <string name="wed">Wed</string>
+    <string name="thus">Thus</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+    <string name="sun">Sun</string>
+
+    <string name="cloudy">Cloudy</string>
+    <string name="city">Hanoi</string>
+    <string name="partly_cloudly">Partly Cloudy</string>
+
+    <string-array name="tab">
+        <item>Hanoi</item>
+        <item>Paris</item>
+        <item>Toulouse</item>
+        <item>HCM</item>
+    </string-array>
+
+    <string name="menu">new activity</string>
+    <string name="refresh">refresh</string>
+</resources>
